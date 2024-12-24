@@ -136,7 +136,7 @@ Chúng tôi hoan nghênh mọi đóng góp! Xem [CONTRIBUTING.md](CONTRIBUTING.m
 
 ## 📝 License
 
-MIT License - [COMING SOON ⚠️].
+MIT License
 
 ## 📧 Liên hệ
 
