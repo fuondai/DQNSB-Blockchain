@@ -119,10 +119,11 @@ Blockchain truyền thống gặp phải các thách thức về:
 - Community building
 - Documentation & Support
 
-## Tham khảo
-
-- [DQN Paper](https://ieeexplore.ieee.org/document/9133069)
-
 ## Kết luận
 
 DQNSB đề xuất một giải pháp đột phá cho vấn đề scalability trong blockchain, kết hợp sức mạnh của AI để tạo ra một hệ thống tự động tối ưu và an toàn.
+
+## Tham khảo
+
+- [DQN Paper](https://ieeexplore.ieee.org/document/9133069)
+- [Ethereum Sharding](https://github.com/ethereum/sharding/tree/master)
