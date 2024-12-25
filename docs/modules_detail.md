@@ -342,29 +342,4 @@ def benchmark_tps():
 ## 11. References
 
 - [DQN Paper](https://ieeexplore.ieee.org/document/9133069)
-
-## Cross-shard Module
-
-### CrossShardCoordinator
-
-```python
-class CrossShardCoordinator:
-    def __init__(self, num_shards: int):
-        self.pending_txs: Dict[str, Transaction] = {}
-        self.proofs: Dict[str, CrossShardProof] = {}
-        self.locked_accounts: Dict[str, bool] = {}
-```
-
-### Performance Results
-
-- Transaction Success: 95%
-- Latency Overhead: 20%
-- Communication Cost: 15%
-- Atomic Success: 100%
-
-### Security Features
-
-- Account locking
-- Proof verification
-- Multi-signature
-- Timeout handling
+- [Ethereum Sharding](https://github.com/ethereum/sharding/tree/master)
