@@ -42,4 +42,4 @@
 
 ## 3. Detailed Metrics
 
-Chi tiết documentation có thể tìm thấy trong thư mục [plots](plots/).
+Chi tiết các lần chạy có thể tìm thấy trong thư mục [plots](https://github.com/fuondai/DQNSB-Blockchain/tree/main/plots).
