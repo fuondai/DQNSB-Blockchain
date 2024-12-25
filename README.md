@@ -37,9 +37,16 @@ pip install -r requirements.txt
 ```bash
 # Training DRL agent
 python main.py --train \
-    --episodes 500 \
-    --transactions 2000 \
-    --malicious 0.3
+    --episodes 100 \
+    --transactions 1000 \
+    --malicious 0.1 \
+    --security-weight 0.5 \
+    --batch-size 128 \
+    --learning-rate 0.0005 \
+    --memory-size 50000
+
+# Train và giả lập nhanh môi trường
+python main.py --train --episodes 100 --transactions 1000 --malicious 0.1 --security-weight 0.5 --batch-size 128 --learning-rate 0.0005 --memory-size 50000
 
 # Đánh giá mô hình [IN PROGRESS ⚠️]
 python main.py --evaluate \
