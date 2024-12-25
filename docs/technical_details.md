@@ -331,11 +331,7 @@ while True:
 - Debug procedures
 - Performance tuning
 
-## 11. References
-
-- [DQN Paper](https://ieeexplore.ieee.org/document/9133069)
-
-## Cross-shard Architecture
+## Cross-shard Architecture [IN-PROGRESS ⚠️]
 
 ### Transaction Flow
 
