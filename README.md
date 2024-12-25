@@ -147,7 +147,7 @@ MIT License
 
 ## 📧 Liên hệ
 
-- **Author**: IadFuon
+- **Author**: Fuon Dai
 - **Email**: fuondai1314@gmail.com
 
 ## 🙏 Ghi nhận
@@ -155,3 +155,4 @@ MIT License
 Dự án này được phát triển dựa trên các nghiên cứu và mã nguồn mở sau:
 
 - [DQN Paper](https://ieeexplore.ieee.org/document/9133069)
+- [Ethereum Sharding](https://github.com/ethereum/sharding/tree/master)
