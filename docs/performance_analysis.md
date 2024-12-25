@@ -42,4 +42,4 @@
 
 ## 3. Detailed Metrics
 
-[... chi tiết thêm ...]
+Chi tiết documentation có thể tìm thấy trong thư mục [plots](plots/).
