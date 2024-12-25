@@ -260,12 +260,12 @@ sequenceDiagram
 
 ```bash
 # Clone repository
-git clone https://github.com/fuondai/DQNSB.git
+git clone https://github.com/fuondai/DQNSB-Blockchain.git
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Run tests
+# Run tests [COMING SOON ⚠️]
 python -m pytest tests/
 ```
 
