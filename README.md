@@ -25,8 +25,8 @@ DQNSB là một dự án nghiên cứu ứng dụng Deep Reinforcement Learning 
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/DQNSB.git
-cd DQNSB
+git clone https://github.com/fuondai/DQNSB-Blockchain
+cd DQNSB-Blockchain
 
 # Cài đặt dependencies
 pip install -r requirements.txt
@@ -41,7 +41,7 @@ python main.py --train \
     --transactions 2000 \
     --malicious 0.3
 
-# Đánh giá mô hình
+# Đánh giá mô hình [IN PROGRESS ⚠️]
 python main.py --evaluate \
     --model checkpoints/best_model.pth
 ```
